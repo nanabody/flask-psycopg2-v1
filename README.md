@@ -1,6 +1,6 @@
 # flask-psycopg2-v1
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/jamesward/heroku-connect-phone-change)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/rajdeepd/flask-psycopg2-v1)
 
 # Local Dev
 
